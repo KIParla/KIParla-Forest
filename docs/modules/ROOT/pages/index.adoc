@@ -1,1 +1,24 @@
-= KIParla Forest Documentation
+= Documentation of KIParla Forest
+
+== General description
+The treebank KIParla Forest belongs to the link:https://universaldependencies.org/#language-u[Universal Dependencies] framework and adopts its annotation schema. Specific guidelines for spoken data are currently being developed and will be available very soon.  
+A work-in-progress version can be found link:https://grew.fr/spoken-language-guidelines/workgroups/spoken-data/[here].  
+Some information about the choices adopted in the first phase of the project can be found in the publications listed below.  
+A useful tool to query the KIParla forest (and other UD-based treebanks) and verify how certain structures were annotated is link:https://universal.grew.fr/[Grewmatch]. A tutorial is available link:https://universal.grew.fr/?corpus=UD_English-ParTUT@2.18[here].
+
+== KIParla-specific guidelines
+_work in progress_
+
+== Useful links
+
+* link:https://grew.fr/spoken-language-guidelines/workgroups/spoken-data/[Guidelines for the annotation of spoken data (in progress)]
+* link:https://universaldependencies.org/introduction.html[Introduction to UD]
+* link:https://universaldependencies.org/u/dep/index.html[List of UD dependecy relations]
+
+== Publications
+
+Marie-Catherine de Marneffe, Christopher D. Manning, Joakim Nivre, Daniel Zeman; _Universal Dependencies_. Computational Linguistics 2021; 47 (2): 255–308. doi: https://doi.org/10.1162/coli_a_00402
+
+Ludovica Pannitto, Eleonora Zucchini, Silvia Ballarè, Cristina Bosco, Caterina Mauri, and Manuela Sanguinetti. 2025. link:https://aclanthology.org/2025.depling-1.5/[_Introducing KIParla Forest: seeds for a UD annotation of interactional syntax_.] In Proceedings of the Eighth International Conference on Dependency Linguistics (Depling, SyntaxFest 2025), pages 54–73, Ljubljana, Slovenia. Association for Computational Linguistics. 
+
+Ludovica Pannitto, Kaja Dobrovoljc Zor, Sylvain Kahane, Elena Battaglia, Bruno Guillaume,  Caterina Mauri and Eleonora Zucchini, link:http://lrec-conf.org/proceedings/lrec2026/workshops/udw/2026.udw-1.0.pdf[_Coconstructions in Spoken Data: UD Annotation Guidelines and First Results_]. In Proceedings of UDW 2026.
