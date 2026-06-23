@@ -5,7 +5,7 @@ The treebank KIParla Forest belongs to the link:https://universaldependencies.or
 
 The data is annotated following this steps:
 - automatic parsing through UDPipe 
-- manual revision on the tool [ArboratorGrew](https://arborator.grew.fr/#/projects/KIParla-Forest), which can be accessed through a GitHub account.
+- manual revision on the tool https://arborator.grew.fr/#/projects/KIParla-Forest[ArboratorGrew], which can be accessed through a GitHub account.
 
 
 Specific guidelines for spoken data are currently being developed and will be available very soon. A work-in-progress version can be found link:https://grew.fr/spoken-language-guidelines/workgroups/spoken-data/[here].  
