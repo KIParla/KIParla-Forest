@@ -1,5 +1,5 @@
-name: portal
-title: KIParla Documentation
+name: kiparla-forest
+title: KIParla Forest
 version: '1.0'
 nav:
   - modules/ROOT/nav.adoc
