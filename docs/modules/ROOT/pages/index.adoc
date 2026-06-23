@@ -2,8 +2,11 @@
 
 == General description
 The treebank KIParla Forest belongs to the link:https://universaldependencies.org/#language-u[Universal Dependencies] framework and adopts its annotation schema. Specific guidelines for spoken data are currently being developed and will be available very soon.  
+
 A work-in-progress version can be found link:https://grew.fr/spoken-language-guidelines/workgroups/spoken-data/[here].  
+
 Some information about the choices adopted in the first phase of the project can be found in the publications listed below.  
+
 A useful tool to query the KIParla forest (and other UD-based treebanks) and verify how certain structures were annotated is link:https://universal.grew.fr/[Grewmatch]. A tutorial is available link:https://universal.grew.fr/?corpus=UD_English-ParTUT@2.18[here].
 
 == KIParla-specific guidelines
